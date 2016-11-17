@@ -4,6 +4,9 @@
 ### Changed
 - Rails 5 - Remove deprecation warnings with empty responses.
 
+### Fixed
+- App Start - Prevent crash and display a warning for each associations badly declared in the models.
+
 ## RELEASE 1.4.3 - 2016-11-15
 ### Added
 - Chart Filters - Support chart filters on belongsTo associations.
